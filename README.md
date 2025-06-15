@@ -37,6 +37,11 @@
     - Used for Disease Prediction
 3) U-net
     - deep learning algorithm used for semantic segmentation.
+
+# My Web App
+
+👉 **View the Live App Here:**  
+[Click to Open HTML App](https://snityasree.github.io/my-html-app/)
    
 
    
